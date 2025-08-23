@@ -1,0 +1,731 @@
+[
+  {
+    "id": "5672",
+    "nome": "Alan Rick",
+    "nomeCompleto": "Alan Rick Miranda",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.alanrick@senado.leg.br"
+  },
+  {
+    "id": "5982",
+    "nome": "Alessandro Vieira",
+    "nomeCompleto": "Alessandro Vieira",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.alessandrovieira@senado.leg.br"
+  },
+  {
+    "id": "6358",
+    "nome": "Ana Paula Lobato",
+    "nomeCompleto": "Ana Paula Dias Lobato Nova Alves",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PDT",
+    "email": "sen.anapaulalobato@senado.leg.br"
+  },
+  {
+    "id": "5967",
+    "nome": "Angelo Coronel",
+    "nomeCompleto": "Angelo Mario Coronel de Azevedo Martins",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.angelocoronel@senado.leg.br"
+  },
+  {
+    "id": "6009",
+    "nome": "Astronauta Marcos Pontes",
+    "nomeCompleto": "Marcos Cesar Pontes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.astronautamarcospontes@senado.leg.br"
+  },
+  {
+    "id": "6350",
+    "nome": "Augusta Brito",
+    "nomeCompleto": "Augusta Brito de Paula",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.augustabrito@senado.leg.br"
+  },
+  {
+    "id": "4639",
+    "nome": "Beto Faro",
+    "nomeCompleto": "José Roberto Oliveira Faro",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.betofaro@senado.leg.br"
+  },
+  {
+    "id": "5936",
+    "nome": "Carlos Portinho",
+    "nomeCompleto": "Carlos Francisco Portinho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.carlosportinho@senado.leg.br"
+  },
+  {
+    "id": "5990",
+    "nome": "Carlos Viana",
+    "nomeCompleto": "Carlos Alberto Dias Viana",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PODEMOS",
+    "email": "sen.carlosviana@senado.leg.br"
+  },
+  {
+    "id": "470",
+    "nome": "Chico Rodrigues",
+    "nomeCompleto": "Francisco de Assis Rodrigues",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSB",
+    "email": "sen.chicorodrigues@senado.leg.br"
+  },
+  {
+    "id": "5973",
+    "nome": "Cid Gomes",
+    "nomeCompleto": "Cid Ferreira Gomes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSB",
+    "email": "sen.cidgomes@senado.leg.br"
+  },
+  {
+    "id": "739",
+    "nome": "Ciro Nogueira",
+    "nomeCompleto": "Ciro Nogueira Lima Filho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.cironogueira@senado.leg.br"
+  },
+  {
+    "id": "6337",
+    "nome": "Cleitinho",
+    "nomeCompleto": "Cleiton Gontijo de Azevedo",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "REPUBLICANOS",
+    "email": "sen.cleitinho@senado.leg.br"
+  },
+  {
+    "id": "475",
+    "nome": "Confúcio Moura",
+    "nomeCompleto": "Confúcio Aires Moura",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.confuciomoura@senado.leg.br"
+  },
+  {
+    "id": "6335",
+    "nome": "Damares Alves",
+    "nomeCompleto": "Damares Regina Alves",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "REPUBLICANOS",
+    "email": "sen.damaresalves@senado.leg.br"
+  },
+  {
+    "id": "5998",
+    "nome": "Daniella Ribeiro",
+    "nomeCompleto": "Daniella Velloso Borges Ribeiro",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.daniellaribeiro@senado.leg.br"
+  },
+  {
+    "id": "3830",
+    "nome": "Davi Alcolumbre",
+    "nomeCompleto": "David Samuel Alcolumbre Tobelem",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.davialcolumbre@senado.leg.br"
+  },
+  {
+    "id": "5793",
+    "nome": "Dr. Hiran",
+    "nomeCompleto": "Hiran Manuel Gonçalves da Silva",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.drhiran@senado.leg.br"
+  },
+  {
+    "id": "5906",
+    "nome": "Dra. Eudócia",
+    "nomeCompleto": "Eudocia Maria Holanda de Araujo Caldas",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.draeudocia@senado.leg.br"
+  },
+  {
+    "id": "4994",
+    "nome": "Eduardo Braga",
+    "nomeCompleto": "Carlos Eduardo de Souza Braga",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.eduardobraga@senado.leg.br"
+  },
+  {
+    "id": "5976",
+    "nome": "Eduardo Girão",
+    "nomeCompleto": "Luis Eduardo Grangeiro Girão",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "NOVO",
+    "email": "sen.eduardogirao@senado.leg.br"
+  },
+  {
+    "id": "3777",
+    "nome": "Eduardo Gomes",
+    "nomeCompleto": "Carlos Eduardo Torres Gomes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.eduardogomes@senado.leg.br"
+  },
+  {
+    "id": "4642",
+    "nome": "Efraim Filho",
+    "nomeCompleto": "Efraim de Araújo Morais Filho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.efraimfilho@senado.leg.br"
+  },
+  {
+    "id": "5718",
+    "nome": "Eliziane Gama",
+    "nomeCompleto": "Eliziane Pereira Gama Melo",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.elizianegama@senado.leg.br"
+  },
+  {
+    "id": "22",
+    "nome": "Esperidião Amin",
+    "nomeCompleto": "Esperidião Amin Helou Filho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.esperidiaoamin@senado.leg.br"
+  },
+  {
+    "id": "5953",
+    "nome": "Fabiano Contarato",
+    "nomeCompleto": "Fabiano Contarato",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.fabianocontarato@senado.leg.br"
+  },
+  {
+    "id": "5917",
+    "nome": "Fernando Dueire",
+    "nomeCompleto": "Fernando Antonio Caminha Dueire",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.fernandodueire@senado.leg.br"
+  },
+  {
+    "id": "6345",
+    "nome": "Fernando Farias",
+    "nomeCompleto": "Fernando Lopes de Farias",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.fernandofarias@senado.leg.br"
+  },
+  {
+    "id": "345",
+    "nome": "Flávio Arns",
+    "nomeCompleto": "Flávio José Arns",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSB",
+    "email": "sen.flavioarns@senado.leg.br"
+  },
+  {
+    "id": "5894",
+    "nome": "Flávio Bolsonaro",
+    "nomeCompleto": "Flávio Nantes Bolsonaro",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.flaviobolsonaro@senado.leg.br"
+  },
+  {
+    "id": "6008",
+    "nome": "Giordano",
+    "nomeCompleto": "Alexandre Luiz Giordano",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.giordano@senado.leg.br"
+  },
+  {
+    "id": "6341",
+    "nome": "Hamilton Mourão",
+    "nomeCompleto": "Antonio Hamilton Martins Mourão",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "REPUBLICANOS",
+    "email": "sen.hamiltonmourao@senado.leg.br"
+  },
+  {
+    "id": "5008",
+    "nome": "Humberto Costa",
+    "nomeCompleto": "Humberto Sérgio Costa Lima",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.humbertocosta@senado.leg.br"
+  },
+  {
+    "id": "5385",
+    "nome": "Irajá",
+    "nomeCompleto": "Irajá Silvestre Filho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.iraja@senado.leg.br"
+  },
+  {
+    "id": "6010",
+    "nome": "Ivete da Silveira",
+    "nomeCompleto": "Ivete Marli Appel da Silveira",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.ivetedasilveira@senado.leg.br"
+  },
+  {
+    "id": "4770",
+    "nome": "Izalci Lucas",
+    "nomeCompleto": "Izalci Lucas Ferreira",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.izalcilucas@senado.leg.br"
+  },
+  {
+    "id": "35",
+    "nome": "Jader Barbalho",
+    "nomeCompleto": "Jader Fontenelle Barbalho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.jaderbarbalho@senado.leg.br"
+  },
+  {
+    "id": "6340",
+    "nome": "Jaime Bagattoli",
+    "nomeCompleto": "Jaime Maximino Bagattoli",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.jaimebagattoli@senado.leg.br"
+  },
+  {
+    "id": "581",
+    "nome": "Jaques Wagner",
+    "nomeCompleto": "Jaques Wagner",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.jaqueswagner@senado.leg.br"
+  },
+  {
+    "id": "4531",
+    "nome": "Jayme Campos",
+    "nomeCompleto": "Jayme Veríssimo de Campos",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.jaymecampos@senado.leg.br"
+  },
+  {
+    "id": "5895",
+    "nome": "Jorge Kajuru",
+    "nomeCompleto": "Jorge Kajuru Reis da Costa Nasser",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSB",
+    "email": "sen.jorgekajuru@senado.leg.br"
+  },
+  {
+    "id": "6342",
+    "nome": "Jorge Seif",
+    "nomeCompleto": "Jorge Seif Júnior",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.jorgeseif@senado.leg.br"
+  },
+  {
+    "id": "6369",
+    "nome": "Jussara Lima",
+    "nomeCompleto": "Antônia Jussara Gomes Alves Sousa Lima",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.jussaralima@senado.leg.br"
+  },
+  {
+    "id": "4811",
+    "nome": "Laércio Oliveira",
+    "nomeCompleto": "Laércio José de Oliveira",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.laerciooliveira@senado.leg.br"
+  },
+  {
+    "id": "5979",
+    "nome": "Leila Barros",
+    "nomeCompleto": "Leila Gomes de Barros Rêgo",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PDT",
+    "email": "sen.leilabarros@senado.leg.br"
+  },
+  {
+    "id": "5926",
+    "nome": "Lucas Barreto",
+    "nomeCompleto": "Luiz Cantuária Barreto",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.lucasbarreto@senado.leg.br"
+  },
+  {
+    "id": "1186",
+    "nome": "Luis Carlos Heinze",
+    "nomeCompleto": "Luis Carlos Heinze",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.luiscarlosheinze@senado.leg.br"
+  },
+  {
+    "id": "631",
+    "nome": "Magno Malta",
+    "nomeCompleto": "Magno Pereira Malta",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.magnomalta@senado.leg.br"
+  },
+  {
+    "id": "5376",
+    "nome": "Mara Gabrilli",
+    "nomeCompleto": "Mara Cristina Gabrilli",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.maragabrilli@senado.leg.br"
+  },
+  {
+    "id": "742",
+    "nome": "Marcelo Castro",
+    "nomeCompleto": "Marcelo Costa e Castro",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.marcelocastro@senado.leg.br"
+  },
+  {
+    "id": "285",
+    "nome": "Marcio Bittar",
+    "nomeCompleto": "Marcio Miguel Bittar",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.marciobittar@senado.leg.br"
+  },
+  {
+    "id": "5422",
+    "nome": "Marcos Rogério",
+    "nomeCompleto": "Marcos Rogério da Silva Brito",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.marcosrogerio@senado.leg.br"
+  },
+  {
+    "id": "5942",
+    "nome": "Marcos do Val",
+    "nomeCompleto": "Marcos Ribeiro do Val",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PODEMOS",
+    "email": "sen.marcosdoval@senado.leg.br"
+  },
+  {
+    "id": "6304",
+    "nome": "Margareth Buzetti",
+    "nomeCompleto": "Margareth Gettert Busetti",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.margarethbuzetti@senado.leg.br"
+  },
+  {
+    "id": "6027",
+    "nome": "Mecias de Jesus",
+    "nomeCompleto": "Antônio Mecias Pereira de Jesus",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "REPUBLICANOS",
+    "email": "sen.meciasdejesus@senado.leg.br"
+  },
+  {
+    "id": "5985",
+    "nome": "Nelsinho Trad",
+    "nomeCompleto": "Nelson Trad Filho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.nelsinhotrad@senado.leg.br"
+  },
+  {
+    "id": "5525",
+    "nome": "Omar Aziz",
+    "nomeCompleto": "Omar José Abdel Aziz",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.omaraziz@senado.leg.br"
+  },
+  {
+    "id": "5924",
+    "nome": "Oriovisto Guimarães",
+    "nomeCompleto": "Oriovisto Guimaraes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSDB",
+    "email": "sen.oriovistoguimaraes@senado.leg.br"
+  },
+  {
+    "id": "5523",
+    "nome": "Otto Alencar",
+    "nomeCompleto": "Otto Roberto Mendonça de Alencar",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.ottoalencar@senado.leg.br"
+  },
+  {
+    "id": "825",
+    "nome": "Paulo Paim",
+    "nomeCompleto": "Paulo Renato Paim",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.paulopaim@senado.leg.br"
+  },
+  {
+    "id": "453",
+    "nome": "Pedro Chaves",
+    "nomeCompleto": "Pedro Pinheiro Chaves",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.pedrochaves@senado.leg.br"
+  },
+  {
+    "id": "5502",
+    "nome": "Plínio Valério",
+    "nomeCompleto": "Francisco Plínio Valério Tomaz",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSDB",
+    "email": "sen.pliniovalerio@senado.leg.br"
+  },
+  {
+    "id": "5386",
+    "nome": "Professora Dorinha Seabra",
+    "nomeCompleto": "Maria Auxiliadora Seabra Rezende",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.professoradorinhaseabra@senado.leg.br"
+  },
+  {
+    "id": "5012",
+    "nome": "Randolfe Rodrigues",
+    "nomeCompleto": "Randolph Frederich Rodrigues Alves",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.randolferodrigues@senado.leg.br"
+  },
+  {
+    "id": "70",
+    "nome": "Renan Calheiros",
+    "nomeCompleto": "José Renan Vasconcelos Calheiros",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.renancalheiros@senado.leg.br"
+  },
+  {
+    "id": "5732",
+    "nome": "Rodrigo Pacheco",
+    "nomeCompleto": "Rodrigo Otavio Soares Pacheco",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.rodrigopacheco@senado.leg.br"
+  },
+  {
+    "id": "4694",
+    "nome": "Rogerio Marinho",
+    "nomeCompleto": "Rogério Simonetti Marinho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.rogeriomarinho@senado.leg.br"
+  },
+  {
+    "id": "5352",
+    "nome": "Rogério Carvalho",
+    "nomeCompleto": "Rogério Carvalho Santos",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.rogeriocarvalho@senado.leg.br"
+  },
+  {
+    "id": "5322",
+    "nome": "Romário",
+    "nomeCompleto": "Romario de Souza Faria",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.romario@senado.leg.br"
+  },
+  {
+    "id": "6331",
+    "nome": "Sergio Moro",
+    "nomeCompleto": "Sergio Fernando Moro",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.sergiomoro@senado.leg.br"
+  },
+  {
+    "id": "5988",
+    "nome": "Soraya Thronicke",
+    "nomeCompleto": "Soraya Vieira Thronicke",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PODEMOS",
+    "email": "sen.sorayathronicke@senado.leg.br"
+  },
+  {
+    "id": "5959",
+    "nome": "Styvenson Valentim",
+    "nomeCompleto": "Eann Styvenson Valentim Mendes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSDB",
+    "email": "sen.styvensonvalentim@senado.leg.br"
+  },
+  {
+    "id": "4560",
+    "nome": "Sérgio Petecão",
+    "nomeCompleto": "Sérgio de Oliveira Cunha",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.sergiopetecao@senado.leg.br"
+  },
+  {
+    "id": "6338",
+    "nome": "Teresa Leitão",
+    "nomeCompleto": "Maria Teresa Leitão de Melo",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PT",
+    "email": "sen.teresaleitao@senado.leg.br"
+  },
+  {
+    "id": "5736",
+    "nome": "Tereza Cristina",
+    "nomeCompleto": "Tereza Cristina Correa da Costa Dias",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PP",
+    "email": "sen.terezacristina@senado.leg.br"
+  },
+  {
+    "id": "5748",
+    "nome": "Veneziano Vital do Rêgo",
+    "nomeCompleto": "Veneziano Vital do Rêgo Segundo Neto",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.venezianovitaldorego@senado.leg.br"
+  },
+  {
+    "id": "1173",
+    "nome": "Wellington Fagundes",
+    "nomeCompleto": "Wellington Antonio Fagundes",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.wellingtonfagundes@senado.leg.br"
+  },
+  {
+    "id": "5411",
+    "nome": "Weverton",
+    "nomeCompleto": "Weverton Rocha Marques de Sousa",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PDT",
+    "email": "sen.wevertonrocha@senado.leg.br"
+  },
+  {
+    "id": "5070",
+    "nome": "Wilder Morais",
+    "nomeCompleto": "Wilder Pedro de Morais",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PL",
+    "email": "sen.wildermorais@senado.leg.br"
+  },
+  {
+    "id": "5783",
+    "nome": "Zenaide Maia",
+    "nomeCompleto": "Zenaide Maia Calado Pereira dos Santos",
+    "sexo": "Feminino",
+    "uf": null,
+    "partido": "PSD",
+    "email": "sen.zenaidemaia@senado.leg.br"
+  },
+  {
+    "id": "3806",
+    "nome": "Zequinha Marinho",
+    "nomeCompleto": "José da Cruz Marinho",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "PODEMOS",
+    "email": "sen.zequinhamarinho@senado.leg.br"
+  }
+]
