@@ -1,191 +1,209 @@
-# README — Uso de APIs para aquisição de Dados Abertos dos Senadores e Deputados
+# 🕷️ Acorda Brasil Scraper
 
+Coletor de dados de políticos e notícias brasileiras utilizando **[Scrapy](https://scrapy.org/)** e **[Playwright](https://playwright.dev/python/)**.  
+O projeto permite baixar informações de **deputados, senadores, governadores** e também de portal de notícias, alualmente so está implementado para o**G1** é preciso fazer para os outros portais.
 
-## Referências
-
-- [Swagger — Dados Abertos da Câmara](https://dadosabertos.camara.leg.br/swagger/api.html)  
-- [Portal de Dados Abertos do Senado](https://www12.senado.leg.br/dados-abertos)  
-- [Exemplo de endpoint Senado](https://legis.senado.leg.br/dadosabertos/senador/lista/atual)  
 ---
-## Como Usar os Exemplos Práticos
 
-Este repositório contém exemplos prontos em **Shell Script** (`.sh`) e **Python** (`.py`) para baixar e salvar os dados localmente.
+## 📦 Instalação
 
-### 1. Criar e ativar ambiente virtual (recomendado)
+### 1. Usando Docker (recomendado)
 
 ```bash
+# construir a imagem
+docker compose build
+
+# rodar um crawler (exemplo: deputados)
+docker compose run --rm scraper crawl deputados -O data_output/deputados.json
+```
+
+O resultado ficará na pasta `data_output/`.
+
+---
+
+### 2. Usando Python + Virtualenv
+
+```bash
+# criar ambiente virtual
 python3 -m venv .venv
-source .venv/bin/activate   # Linux / macOS
-# ou
-.\.venv\Scriptsctivate    # Windows PowerShell
-```
+source .venv/bin/activate
 
-### 2. Instalar dependências
-
-As bibliotecas necessárias estão listadas em `requirements.txt`.  
-Gere o arquivo ou instale direto:
-
-```bash
-pip install requests
-```
-
-Se quiser exportar todas as libs da venv:
-
-```bash
-pip freeze > requirements.txt
-```
-
-E em outro ambiente basta:
-
-```bash
+# instalar dependências
 pip install -r requirements.txt
+
+# instalar Playwright browsers (necessário para news)
+playwright install
 ```
 
-### 3. Rodar os scripts de exemplo
-
-- **Shell Script**  
-  ```bash
-  chmod +x exemplos/senador.sh exemplos/deputado.sh
-  ./exemplos/senador.sh
-  ./exemplos/deputado.sh
-  ```
-
-- **Python**  
-  ```bash
-  python exemplos/parlamentares.py
-  ```
-
-Os arquivos baixados serão salvos na pasta `data/`:
-- `data/senadores.json`
-- `data/deputados.json`
-
----
-##  Índice
-
-1. [Visão Geral](#visão-geral)  
-2. [Requisitos](#requisitos)  
-3. [Como Fazer Requisições](#como-fazer-requisições)  
-   - 3.1 Deputados  
-   - 3.2 Senadores *(via Senado Federal — Catálogo de Dados Abertos do Senado)*  
-   - 3.3 Governadores *(disponibilidade limitada; podem ser obtidos em outros portais estaduais ou federais)*  
-4. [Exemplos de Código](#exemplos-de-código)  
-5. [Formatos de Resposta](#formatos-de-resposta)  
-
----
-
-## Visão Geral
-
-Este README explica como utilizar as APIs RESTful do portal de Dados Abertos do Governo Brasileiro para consultar informações sobre **deputados** e **senadores**.  
-Ele também indica onde encontrar dados sobre **governadores**.  
-
-Fontes principais:  
-- **Câmara dos Deputados**: API REST com documentação Swagger.  
-- **Senado Federal**: Portal de Dados Abertos com endpoints HTTP, CSV e XML.  
-
----
-
-## Requisitos
-
-- Qualquer linguagem ou ferramenta capaz de fazer requisições HTTP (`curl`, Postman, Python `requests`, etc.)  
-- Formatos suportados: JSON, XML e CSV (dependendo do portal)  
-- Opcional: ferramentas como `jq` para processar JSON ou `pandas` em Python  
-
----
-
-## Como Fazer Requisições
-
-### 3.1 Deputados (Câmara dos Deputados)
-
-Para listar todos os deputados em exercício:
-```
-GET https://dadosabertos.camara.leg.br/api/v2/deputados
-```
-
-Exemplo filtrando por **nome**:
-```
-GET https://dadosabertos.camara.leg.br/api/v2/deputados?nome=Fulano
-```
-
-Exemplo filtrando por **estado**:
-```
-GET https://dadosabertos.camara.leg.br/api/v2/deputados?siglaUf=SP
-```
-
----
-
-### 3.2 Senadores (Senado Federal)
-
-Os dados dos senadores podem ser acessados via **Dados Abertos do Senado**.  
-A principal diferença é que o Senado não fornece a mesma interface Swagger da Câmara, mas disponibiliza endpoints diretos e arquivos em XML/CSV.  
-
-#### Listagem de senadores em exercício
-```
-GET https://legis.senado.leg.br/dadosabertos/senador/lista/atual
-```
-
-#### Listagem de todos os senadores por legislatura
-```
-GET https://legis.senado.leg.br/dadosabertos/senador/lista/legislatura
-```
-
-#### Detalhes de um senador específico (exemplo: idSenador = 4981)
-```
-GET https://legis.senado.leg.br/dadosabertos/senador/4981
-```
-
----
-
-### 3.3 Governadores
-
-Não há API centralizada no governo federal para governadores.  
-Fontes alternativas:  
-- **Portais estaduais de transparência**  
-- **dados.gov.br** (buscando datasets por estado)  
-- APIs regionais específicas em alguns estados  
-
----
-
-## Exemplos de Código
-
-### Deputados (Câmara)
+Executando um crawler:
 
 ```bash
-# Deputados em exercício
-curl -H "Accept: application/json" \
-  "https://dadosabertos.camara.leg.br/api/v2/deputados"
+scrapy crawl deputados -O data_output/deputados.json
 ```
 
-### Senadores (Senado)
+---
+
+## 🚀 Executando os crawlers
+
+Todos os crawlers geram um **.json** na pasta `data_output/`.
+
+### Deputados
+```bash
+# Docker
+docker compose run --rm scraper crawl deputados -O data_output/deputados.json
+
+# venv
+scrapy crawl deputados -O data_output/deputados.json
+```
+
+**Exemplo de saída (`deputados.json`):**
+```json
+{
+  "dados": [
+    {
+      "id": 204379,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204379",
+      "nome": "Acácio Favacho",
+      "siglaPartido": "MDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+      "siglaUf": "AP",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
+      "email": "dep.acaciofavacho@camara.leg.br"
+    },
+    {
+      "id": 220714,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220714",
+      "nome": "Adail Filho",
+      "siglaPartido": "REPUBLICANOS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+      "siglaUf": "AM",
+      "idLegislatura": 57,
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+      "email": "dep.adailfilho@camara.leg.br"
+    },
+  ]
+}
+```
+
+---
+
+### Senadores
+```bash
+# Docker
+docker compose run --rm scraper crawl senadores -O data_output/senadores.json
+
+# venv
+scrapy crawl senadores -O data_output/senadores.json
+```
+
+**Exemplo de saída (`senadores.json`):**
+```json
+[
+  {
+    "id": "5672",
+    "nome": "Alan Rick",
+    "nomeCompleto": "Alan Rick Miranda",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "UNIÃO",
+    "email": "sen.alanrick@senado.leg.br"
+  },
+  {
+    "id": "5982",
+    "nome": "Alessandro Vieira",
+    "nomeCompleto": "Alessandro Vieira",
+    "sexo": "Masculino",
+    "uf": null,
+    "partido": "MDB",
+    "email": "sen.alessandrovieira@senado.leg.br"
+  },
+]
+```
+
+---
+
+### Governadores
+```bash
+# Docker
+docker compose run --rm scraper crawl governadores -O data_output/governadores.json
+
+# venv
+scrapy crawl governadores -O data_output/governadores.json
+```
+
+**Exemplo de saída (`governadores.json`):**
+```json
+[
+  {"titulo": "Haddad diz que bolsonarismo tem feito ataques ao BB: 'Estão tentando minar as instituições'", "link": "https://g1.globo.com/economia/noticia/2025/08/23/haddad-diz-que-bolsonarismo-tem-feito-ataques-ao-bb-estao-tentando-minar-as-instituicoes.ghtml", "resumo": "Para ministro, conteúdos falsos postados sobre o Banco do Brasil fazem parte de ação combinada, que inclui projetos no Congresso. Haddad deu entrevista ao 'Jornal GGN'."},
+  {"titulo": "Alckmin defende diálogo e negociação e fala em 'abrir mais mercado' para frear tarifaço de Trump", "link": "https://g1.globo.com/sp/sao-paulo/noticia/2025/08/23/alckmin-defende-dialogo-e-negociacao-e-fala-em-abrir-mais-mercado-para-frear-tarifaco.ghtml", "resumo": "Vice-presidente, que é ministro da Indústria e Comércio, vai ao México para ampliar relação bilateral. Fala é no contexto de medidas positivas da semana, como socorro do BNDES e alívio para produtos derivados de aço e alumínio."},
+]
+```
+
+---
+
+### Notícias (G1 Política)
+
+> Esse crawler usa **Scrapy + Playwright**, então precisa do Playwright instalado (já incluído no Docker).
 
 ```bash
-# Senadores em exercício (XML por padrão)
-curl "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+# Docker
+docker compose run --rm scraper crawl news -O data_output/noticias.json
 
-# Converter resposta XML em JSON (Linux com xq)
-curl "https://legis.senado.leg.br/dadosabertos/senador/lista/atual" | xq .
+# venv
+scrapy crawl news -O data_output/noticias.json
 ```
 
-Em **Python**:
-
-```python
-import requests
-import xml.etree.ElementTree as ET
-
-# Lista de senadores em exercício
-url = "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
-resp = requests.get(url)
-root = ET.fromstring(resp.content)
-
-# Exibir os 5 primeiros nomes
-for senador in root.findall(".//Parlamentar")[:5]:
-    print(senador.find("IdentificacaoParlamentar/NomeParlamentar").text)
+**Exemplo de saída (`noticias.json`):**
+```json
+[
+  {
+    "titulo": "Haddad diz que bolsonarismo tem feito ataques ao BB: 'Estão tentando minar as instituições'",
+    "link": "https://g1.globo.com/economia/noticia/2025/08/23/haddad-diz-que-bolsonarismo-tem-feito-ataques-ao-bb-estao-tentando-minar-as-instituicoes.ghtml",
+    "resumo": "Para ministro, conteúdos falsos postados sobre o Banco do Brasil fazem parte de ação combinada, que inclui projetos no Congresso. Haddad deu entrevista ao 'Jornal GGN'."
+  },
+  {
+    "titulo": "Banco do Brasil pede à AGU ação contra postagens falsas de bolsonaristas",
+    "link": "https://g1.globo.com/politica/video/banco-do-brasil-pede-a-agu-acao-contra-postagens-falsas-de-bolsonaristas-13866506.ghtml",
+    "resumo": null
+  }
+]
 ```
 
 ---
 
-## Formatos de Resposta
+## 📂 Estrutura do projeto
 
-- **Câmara**: JSON e XML  
-- **Senado**: XML (nativo) e CSV em alguns datasets  
-- **Governadores**: variam conforme estado (JSON, CSV ou planilhas)  
+```
+acorda_brasil_scraper/
+├── acorda_brasil_scraper/
+│   ├── spiders/
+│   │   ├── deputados.py
+│   │   ├── senadores.py
+│   │   ├── governadores.py
+│   │   └── news.py
+│   ├── items.py
+│   ├── middlewares.py
+│   ├── pipelines.py
+│   └── settings.py
+├── data_output/
+│   └── *.json
+├── docker-compose.yml
+├── Dockerfile
+├── requirements.txt
+└── README.md
+```
+
 ---
+
+## 📝 Notas
+
+- Use **Docker** se quiser simplicidade e isolamento.  
+- Use **venv** se quiser rodar direto no sistema com Python instalado.  
+- Para rodar Playwright no Linux em servidores sem GUI, use `playwright install --with-deps`.
+
+---
+
+## 📜 Licença
+
+Livre para uso educacional e projetos pessoais.
