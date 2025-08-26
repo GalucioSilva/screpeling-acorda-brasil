@@ -92,3 +92,16 @@ PLAYWRIGHT_BROWSER_TYPE = "chromium"
 
 # Set settings whose default value is deprecated to a future-proof value
 FEED_EXPORT_ENCODING = "utf-8"
+FEEDS = {
+    'data_output/%(name)s.json': {
+        'format': 'json',
+        'encoding': 'utf8',
+        'indent': 3,
+        'overwrite': True,
+    }
+}
+
+ITEM_PIPELINES = {
+    'acorda_brasil_scraper.pipelines.PoliticosPipeline': 300,
+}
+

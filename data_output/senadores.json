@@ -1,731 +1,893 @@
 [
-  {
-    "id": "5672",
-    "nome": "Alan Rick",
-    "nomeCompleto": "Alan Rick Miranda",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.alanrick@senado.leg.br"
-  },
-  {
-    "id": "5982",
-    "nome": "Alessandro Vieira",
-    "nomeCompleto": "Alessandro Vieira",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.alessandrovieira@senado.leg.br"
-  },
-  {
-    "id": "6358",
-    "nome": "Ana Paula Lobato",
-    "nomeCompleto": "Ana Paula Dias Lobato Nova Alves",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PDT",
-    "email": "sen.anapaulalobato@senado.leg.br"
-  },
-  {
-    "id": "5967",
-    "nome": "Angelo Coronel",
-    "nomeCompleto": "Angelo Mario Coronel de Azevedo Martins",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.angelocoronel@senado.leg.br"
-  },
-  {
-    "id": "6009",
-    "nome": "Astronauta Marcos Pontes",
-    "nomeCompleto": "Marcos Cesar Pontes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.astronautamarcospontes@senado.leg.br"
-  },
-  {
-    "id": "6350",
-    "nome": "Augusta Brito",
-    "nomeCompleto": "Augusta Brito de Paula",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.augustabrito@senado.leg.br"
-  },
-  {
-    "id": "4639",
-    "nome": "Beto Faro",
-    "nomeCompleto": "José Roberto Oliveira Faro",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.betofaro@senado.leg.br"
-  },
-  {
-    "id": "5936",
-    "nome": "Carlos Portinho",
-    "nomeCompleto": "Carlos Francisco Portinho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.carlosportinho@senado.leg.br"
-  },
-  {
-    "id": "5990",
-    "nome": "Carlos Viana",
-    "nomeCompleto": "Carlos Alberto Dias Viana",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PODEMOS",
-    "email": "sen.carlosviana@senado.leg.br"
-  },
-  {
-    "id": "470",
-    "nome": "Chico Rodrigues",
-    "nomeCompleto": "Francisco de Assis Rodrigues",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSB",
-    "email": "sen.chicorodrigues@senado.leg.br"
-  },
-  {
-    "id": "5973",
-    "nome": "Cid Gomes",
-    "nomeCompleto": "Cid Ferreira Gomes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSB",
-    "email": "sen.cidgomes@senado.leg.br"
-  },
-  {
-    "id": "739",
-    "nome": "Ciro Nogueira",
-    "nomeCompleto": "Ciro Nogueira Lima Filho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.cironogueira@senado.leg.br"
-  },
-  {
-    "id": "6337",
-    "nome": "Cleitinho",
-    "nomeCompleto": "Cleiton Gontijo de Azevedo",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "REPUBLICANOS",
-    "email": "sen.cleitinho@senado.leg.br"
-  },
-  {
-    "id": "475",
-    "nome": "Confúcio Moura",
-    "nomeCompleto": "Confúcio Aires Moura",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.confuciomoura@senado.leg.br"
-  },
-  {
-    "id": "6335",
-    "nome": "Damares Alves",
-    "nomeCompleto": "Damares Regina Alves",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "REPUBLICANOS",
-    "email": "sen.damaresalves@senado.leg.br"
-  },
-  {
-    "id": "5998",
-    "nome": "Daniella Ribeiro",
-    "nomeCompleto": "Daniella Velloso Borges Ribeiro",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.daniellaribeiro@senado.leg.br"
-  },
-  {
-    "id": "3830",
-    "nome": "Davi Alcolumbre",
-    "nomeCompleto": "David Samuel Alcolumbre Tobelem",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.davialcolumbre@senado.leg.br"
-  },
-  {
-    "id": "5793",
-    "nome": "Dr. Hiran",
-    "nomeCompleto": "Hiran Manuel Gonçalves da Silva",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.drhiran@senado.leg.br"
-  },
-  {
-    "id": "5906",
-    "nome": "Dra. Eudócia",
-    "nomeCompleto": "Eudocia Maria Holanda de Araujo Caldas",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.draeudocia@senado.leg.br"
-  },
-  {
-    "id": "4994",
-    "nome": "Eduardo Braga",
-    "nomeCompleto": "Carlos Eduardo de Souza Braga",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.eduardobraga@senado.leg.br"
-  },
-  {
-    "id": "5976",
-    "nome": "Eduardo Girão",
-    "nomeCompleto": "Luis Eduardo Grangeiro Girão",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "NOVO",
-    "email": "sen.eduardogirao@senado.leg.br"
-  },
-  {
-    "id": "3777",
-    "nome": "Eduardo Gomes",
-    "nomeCompleto": "Carlos Eduardo Torres Gomes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.eduardogomes@senado.leg.br"
-  },
-  {
-    "id": "4642",
-    "nome": "Efraim Filho",
-    "nomeCompleto": "Efraim de Araújo Morais Filho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.efraimfilho@senado.leg.br"
-  },
-  {
-    "id": "5718",
-    "nome": "Eliziane Gama",
-    "nomeCompleto": "Eliziane Pereira Gama Melo",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.elizianegama@senado.leg.br"
-  },
-  {
-    "id": "22",
-    "nome": "Esperidião Amin",
-    "nomeCompleto": "Esperidião Amin Helou Filho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.esperidiaoamin@senado.leg.br"
-  },
-  {
-    "id": "5953",
-    "nome": "Fabiano Contarato",
-    "nomeCompleto": "Fabiano Contarato",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.fabianocontarato@senado.leg.br"
-  },
-  {
-    "id": "5917",
-    "nome": "Fernando Dueire",
-    "nomeCompleto": "Fernando Antonio Caminha Dueire",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.fernandodueire@senado.leg.br"
-  },
-  {
-    "id": "6345",
-    "nome": "Fernando Farias",
-    "nomeCompleto": "Fernando Lopes de Farias",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.fernandofarias@senado.leg.br"
-  },
-  {
-    "id": "345",
-    "nome": "Flávio Arns",
-    "nomeCompleto": "Flávio José Arns",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSB",
-    "email": "sen.flavioarns@senado.leg.br"
-  },
-  {
-    "id": "5894",
-    "nome": "Flávio Bolsonaro",
-    "nomeCompleto": "Flávio Nantes Bolsonaro",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.flaviobolsonaro@senado.leg.br"
-  },
-  {
-    "id": "6008",
-    "nome": "Giordano",
-    "nomeCompleto": "Alexandre Luiz Giordano",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.giordano@senado.leg.br"
-  },
-  {
-    "id": "6341",
-    "nome": "Hamilton Mourão",
-    "nomeCompleto": "Antonio Hamilton Martins Mourão",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "REPUBLICANOS",
-    "email": "sen.hamiltonmourao@senado.leg.br"
-  },
-  {
-    "id": "5008",
-    "nome": "Humberto Costa",
-    "nomeCompleto": "Humberto Sérgio Costa Lima",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.humbertocosta@senado.leg.br"
-  },
-  {
-    "id": "5385",
-    "nome": "Irajá",
-    "nomeCompleto": "Irajá Silvestre Filho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.iraja@senado.leg.br"
-  },
-  {
-    "id": "6010",
-    "nome": "Ivete da Silveira",
-    "nomeCompleto": "Ivete Marli Appel da Silveira",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.ivetedasilveira@senado.leg.br"
-  },
-  {
-    "id": "4770",
-    "nome": "Izalci Lucas",
-    "nomeCompleto": "Izalci Lucas Ferreira",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.izalcilucas@senado.leg.br"
-  },
-  {
-    "id": "35",
-    "nome": "Jader Barbalho",
-    "nomeCompleto": "Jader Fontenelle Barbalho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.jaderbarbalho@senado.leg.br"
-  },
-  {
-    "id": "6340",
-    "nome": "Jaime Bagattoli",
-    "nomeCompleto": "Jaime Maximino Bagattoli",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.jaimebagattoli@senado.leg.br"
-  },
-  {
-    "id": "581",
-    "nome": "Jaques Wagner",
-    "nomeCompleto": "Jaques Wagner",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.jaqueswagner@senado.leg.br"
-  },
-  {
-    "id": "4531",
-    "nome": "Jayme Campos",
-    "nomeCompleto": "Jayme Veríssimo de Campos",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.jaymecampos@senado.leg.br"
-  },
-  {
-    "id": "5895",
-    "nome": "Jorge Kajuru",
-    "nomeCompleto": "Jorge Kajuru Reis da Costa Nasser",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSB",
-    "email": "sen.jorgekajuru@senado.leg.br"
-  },
-  {
-    "id": "6342",
-    "nome": "Jorge Seif",
-    "nomeCompleto": "Jorge Seif Júnior",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.jorgeseif@senado.leg.br"
-  },
-  {
-    "id": "6369",
-    "nome": "Jussara Lima",
-    "nomeCompleto": "Antônia Jussara Gomes Alves Sousa Lima",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.jussaralima@senado.leg.br"
-  },
-  {
-    "id": "4811",
-    "nome": "Laércio Oliveira",
-    "nomeCompleto": "Laércio José de Oliveira",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.laerciooliveira@senado.leg.br"
-  },
-  {
-    "id": "5979",
-    "nome": "Leila Barros",
-    "nomeCompleto": "Leila Gomes de Barros Rêgo",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PDT",
-    "email": "sen.leilabarros@senado.leg.br"
-  },
-  {
-    "id": "5926",
-    "nome": "Lucas Barreto",
-    "nomeCompleto": "Luiz Cantuária Barreto",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.lucasbarreto@senado.leg.br"
-  },
-  {
-    "id": "1186",
-    "nome": "Luis Carlos Heinze",
-    "nomeCompleto": "Luis Carlos Heinze",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.luiscarlosheinze@senado.leg.br"
-  },
-  {
-    "id": "631",
-    "nome": "Magno Malta",
-    "nomeCompleto": "Magno Pereira Malta",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.magnomalta@senado.leg.br"
-  },
-  {
-    "id": "5376",
-    "nome": "Mara Gabrilli",
-    "nomeCompleto": "Mara Cristina Gabrilli",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.maragabrilli@senado.leg.br"
-  },
-  {
-    "id": "742",
-    "nome": "Marcelo Castro",
-    "nomeCompleto": "Marcelo Costa e Castro",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.marcelocastro@senado.leg.br"
-  },
-  {
-    "id": "285",
-    "nome": "Marcio Bittar",
-    "nomeCompleto": "Marcio Miguel Bittar",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.marciobittar@senado.leg.br"
-  },
-  {
-    "id": "5422",
-    "nome": "Marcos Rogério",
-    "nomeCompleto": "Marcos Rogério da Silva Brito",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.marcosrogerio@senado.leg.br"
-  },
-  {
-    "id": "5942",
-    "nome": "Marcos do Val",
-    "nomeCompleto": "Marcos Ribeiro do Val",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PODEMOS",
-    "email": "sen.marcosdoval@senado.leg.br"
-  },
-  {
-    "id": "6304",
-    "nome": "Margareth Buzetti",
-    "nomeCompleto": "Margareth Gettert Busetti",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.margarethbuzetti@senado.leg.br"
-  },
-  {
-    "id": "6027",
-    "nome": "Mecias de Jesus",
-    "nomeCompleto": "Antônio Mecias Pereira de Jesus",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "REPUBLICANOS",
-    "email": "sen.meciasdejesus@senado.leg.br"
-  },
-  {
-    "id": "5985",
-    "nome": "Nelsinho Trad",
-    "nomeCompleto": "Nelson Trad Filho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.nelsinhotrad@senado.leg.br"
-  },
-  {
-    "id": "5525",
-    "nome": "Omar Aziz",
-    "nomeCompleto": "Omar José Abdel Aziz",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.omaraziz@senado.leg.br"
-  },
-  {
-    "id": "5924",
-    "nome": "Oriovisto Guimarães",
-    "nomeCompleto": "Oriovisto Guimaraes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSDB",
-    "email": "sen.oriovistoguimaraes@senado.leg.br"
-  },
-  {
-    "id": "5523",
-    "nome": "Otto Alencar",
-    "nomeCompleto": "Otto Roberto Mendonça de Alencar",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.ottoalencar@senado.leg.br"
-  },
-  {
-    "id": "825",
-    "nome": "Paulo Paim",
-    "nomeCompleto": "Paulo Renato Paim",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.paulopaim@senado.leg.br"
-  },
-  {
-    "id": "453",
-    "nome": "Pedro Chaves",
-    "nomeCompleto": "Pedro Pinheiro Chaves",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.pedrochaves@senado.leg.br"
-  },
-  {
-    "id": "5502",
-    "nome": "Plínio Valério",
-    "nomeCompleto": "Francisco Plínio Valério Tomaz",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSDB",
-    "email": "sen.pliniovalerio@senado.leg.br"
-  },
-  {
-    "id": "5386",
-    "nome": "Professora Dorinha Seabra",
-    "nomeCompleto": "Maria Auxiliadora Seabra Rezende",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.professoradorinhaseabra@senado.leg.br"
-  },
-  {
-    "id": "5012",
-    "nome": "Randolfe Rodrigues",
-    "nomeCompleto": "Randolph Frederich Rodrigues Alves",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.randolferodrigues@senado.leg.br"
-  },
-  {
-    "id": "70",
-    "nome": "Renan Calheiros",
-    "nomeCompleto": "José Renan Vasconcelos Calheiros",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.renancalheiros@senado.leg.br"
-  },
-  {
-    "id": "5732",
-    "nome": "Rodrigo Pacheco",
-    "nomeCompleto": "Rodrigo Otavio Soares Pacheco",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.rodrigopacheco@senado.leg.br"
-  },
-  {
-    "id": "4694",
-    "nome": "Rogerio Marinho",
-    "nomeCompleto": "Rogério Simonetti Marinho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.rogeriomarinho@senado.leg.br"
-  },
-  {
-    "id": "5352",
-    "nome": "Rogério Carvalho",
-    "nomeCompleto": "Rogério Carvalho Santos",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.rogeriocarvalho@senado.leg.br"
-  },
-  {
-    "id": "5322",
-    "nome": "Romário",
-    "nomeCompleto": "Romario de Souza Faria",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.romario@senado.leg.br"
-  },
-  {
-    "id": "6331",
-    "nome": "Sergio Moro",
-    "nomeCompleto": "Sergio Fernando Moro",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "UNIÃO",
-    "email": "sen.sergiomoro@senado.leg.br"
-  },
-  {
-    "id": "5988",
-    "nome": "Soraya Thronicke",
-    "nomeCompleto": "Soraya Vieira Thronicke",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PODEMOS",
-    "email": "sen.sorayathronicke@senado.leg.br"
-  },
-  {
-    "id": "5959",
-    "nome": "Styvenson Valentim",
-    "nomeCompleto": "Eann Styvenson Valentim Mendes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSDB",
-    "email": "sen.styvensonvalentim@senado.leg.br"
-  },
-  {
-    "id": "4560",
-    "nome": "Sérgio Petecão",
-    "nomeCompleto": "Sérgio de Oliveira Cunha",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.sergiopetecao@senado.leg.br"
-  },
-  {
-    "id": "6338",
-    "nome": "Teresa Leitão",
-    "nomeCompleto": "Maria Teresa Leitão de Melo",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PT",
-    "email": "sen.teresaleitao@senado.leg.br"
-  },
-  {
-    "id": "5736",
-    "nome": "Tereza Cristina",
-    "nomeCompleto": "Tereza Cristina Correa da Costa Dias",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PP",
-    "email": "sen.terezacristina@senado.leg.br"
-  },
-  {
-    "id": "5748",
-    "nome": "Veneziano Vital do Rêgo",
-    "nomeCompleto": "Veneziano Vital do Rêgo Segundo Neto",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "MDB",
-    "email": "sen.venezianovitaldorego@senado.leg.br"
-  },
-  {
-    "id": "1173",
-    "nome": "Wellington Fagundes",
-    "nomeCompleto": "Wellington Antonio Fagundes",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.wellingtonfagundes@senado.leg.br"
-  },
-  {
-    "id": "5411",
-    "nome": "Weverton",
-    "nomeCompleto": "Weverton Rocha Marques de Sousa",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PDT",
-    "email": "sen.wevertonrocha@senado.leg.br"
-  },
-  {
-    "id": "5070",
-    "nome": "Wilder Morais",
-    "nomeCompleto": "Wilder Pedro de Morais",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PL",
-    "email": "sen.wildermorais@senado.leg.br"
-  },
-  {
-    "id": "5783",
-    "nome": "Zenaide Maia",
-    "nomeCompleto": "Zenaide Maia Calado Pereira dos Santos",
-    "sexo": "Feminino",
-    "uf": null,
-    "partido": "PSD",
-    "email": "sen.zenaidemaia@senado.leg.br"
-  },
-  {
-    "id": "3806",
-    "nome": "Zequinha Marinho",
-    "nomeCompleto": "José da Cruz Marinho",
-    "sexo": "Masculino",
-    "uf": null,
-    "partido": "PODEMOS",
-    "email": "sen.zequinhamarinho@senado.leg.br"
-  }
+{
+   "api_id": 5672,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5672",
+   "nome": "Alan Rick",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "AC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5672.jpg",
+   "email": "sen.alanrick@senado.leg.br",
+   "telefone": "33036333",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5982,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5982",
+   "nome": "Alessandro Vieira",
+   "siglaPartido": "MDB",
+   "siglaUf": "SE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5982.jpg",
+   "email": "sen.alessandrovieira@senado.leg.br",
+   "telefone": "33039011",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6358,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6358",
+   "nome": "Ana Paula Lobato",
+   "siglaPartido": "PDT",
+   "siglaUf": "MA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6358.jpg",
+   "email": "sen.anapaulalobato@senado.leg.br",
+   "telefone": "33032967",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5967,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5967",
+   "nome": "Angelo Coronel",
+   "siglaPartido": "PSD",
+   "siglaUf": "BA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5967.jpg",
+   "email": "sen.angelocoronel@senado.leg.br",
+   "telefone": "33036103",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6009,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6009",
+   "nome": "Astronauta Marcos Pontes",
+   "siglaPartido": "PL",
+   "siglaUf": "SP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6009.jpg",
+   "email": "sen.astronautamarcospontes@senado.leg.br",
+   "telefone": "33031177",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6350,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6350",
+   "nome": "Augusta Brito",
+   "siglaPartido": "PT",
+   "siglaUf": "CE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6350.jpg",
+   "email": "sen.augustabrito@senado.leg.br",
+   "telefone": "33035940",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4639,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4639",
+   "nome": "Beto Faro",
+   "siglaPartido": "PT",
+   "siglaUf": "PA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4639.jpg",
+   "email": "sen.betofaro@senado.leg.br",
+   "telefone": "33035220",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5936,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5936",
+   "nome": "Carlos Portinho",
+   "siglaPartido": "PL",
+   "siglaUf": "RJ",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5936.jpg",
+   "email": "sen.carlosportinho@senado.leg.br",
+   "telefone": "33036640",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5990,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5990",
+   "nome": "Carlos Viana",
+   "siglaPartido": "PODEMOS",
+   "siglaUf": "MG",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5990.jpg",
+   "email": "sen.carlosviana@senado.leg.br",
+   "telefone": "33033100",
+   "cargo": "Senador"
+},
+{
+   "api_id": 470,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/470",
+   "nome": "Chico Rodrigues",
+   "siglaPartido": "PSB",
+   "siglaUf": "RR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador470.jpg",
+   "email": "sen.chicorodrigues@senado.leg.br",
+   "telefone": "33032281",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5973,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5973",
+   "nome": "Cid Gomes",
+   "siglaPartido": "PSB",
+   "siglaUf": "CE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5973.jpg",
+   "email": "sen.cidgomes@senado.leg.br",
+   "telefone": "33036460",
+   "cargo": "Senador"
+},
+{
+   "api_id": 739,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/739",
+   "nome": "Ciro Nogueira",
+   "siglaPartido": "PP",
+   "siglaUf": "PI",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador739.jpg",
+   "email": "sen.cironogueira@senado.leg.br",
+   "telefone": "33036187",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6337,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6337",
+   "nome": "Cleitinho",
+   "siglaPartido": "REPUBLICANOS",
+   "siglaUf": "MG",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6337.jpg",
+   "email": "sen.cleitinho@senado.leg.br",
+   "telefone": "33033811",
+   "cargo": "Senador"
+},
+{
+   "api_id": 475,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/475",
+   "nome": "Confúcio Moura",
+   "siglaPartido": "MDB",
+   "siglaUf": "RO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador475.jpg",
+   "email": "sen.confuciomoura@senado.leg.br",
+   "telefone": "33032470",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6335,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6335",
+   "nome": "Damares Alves",
+   "siglaPartido": "REPUBLICANOS",
+   "siglaUf": "DF",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6335.jpg",
+   "email": "sen.damaresalves@senado.leg.br",
+   "telefone": "33033265",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5998,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5998",
+   "nome": "Daniella Ribeiro",
+   "siglaPartido": "PP",
+   "siglaUf": "PB",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5998.jpg",
+   "email": "sen.daniellaribeiro@senado.leg.br",
+   "telefone": "33036788",
+   "cargo": "Senador"
+},
+{
+   "api_id": 3830,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3830",
+   "nome": "Davi Alcolumbre",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "AP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3830.jpg",
+   "email": "sen.davialcolumbre@senado.leg.br",
+   "telefone": "33036717",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5793,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5793",
+   "nome": "Dr. Hiran",
+   "siglaPartido": "PP",
+   "siglaUf": "RR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5793.jpg",
+   "email": "sen.drhiran@senado.leg.br",
+   "telefone": "33036251",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5906,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5906",
+   "nome": "Dra. Eudócia",
+   "siglaPartido": "PL",
+   "siglaUf": "AL",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5906.jpg",
+   "email": "sen.draeudocia@senado.leg.br",
+   "telefone": "33036083",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4994,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4994",
+   "nome": "Eduardo Braga",
+   "siglaPartido": "MDB",
+   "siglaUf": "AM",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4994.jpg",
+   "email": "sen.eduardobraga@senado.leg.br",
+   "telefone": "33036230",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5976,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+   "nome": "Eduardo Girão",
+   "siglaPartido": "NOVO",
+   "siglaUf": "CE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5976.jpg",
+   "email": "sen.eduardogirao@senado.leg.br",
+   "telefone": "33036677",
+   "cargo": "Senador"
+},
+{
+   "api_id": 3777,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3777",
+   "nome": "Eduardo Gomes",
+   "siglaPartido": "PL",
+   "siglaUf": "TO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3777.jpg",
+   "email": "sen.eduardogomes@senado.leg.br",
+   "telefone": "33036349",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4642,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4642",
+   "nome": "Efraim Filho",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "PB",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4642.jpg",
+   "email": "sen.efraimfilho@senado.leg.br",
+   "telefone": "33035934",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5718,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5718",
+   "nome": "Eliziane Gama",
+   "siglaPartido": "PSD",
+   "siglaUf": "MA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5718.jpg",
+   "email": "sen.elizianegama@senado.leg.br",
+   "telefone": "33036741",
+   "cargo": "Senador"
+},
+{
+   "api_id": 22,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/22",
+   "nome": "Esperidião Amin",
+   "siglaPartido": "PP",
+   "siglaUf": "SC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador22.jpg",
+   "email": "sen.esperidiaoamin@senado.leg.br",
+   "telefone": "33036446",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5953,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5953",
+   "nome": "Fabiano Contarato",
+   "siglaPartido": "PT",
+   "siglaUf": "ES",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5953.jpg",
+   "email": "sen.fabianocontarato@senado.leg.br",
+   "telefone": "33039054",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5917,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5917",
+   "nome": "Fernando Dueire",
+   "siglaPartido": "MDB",
+   "siglaUf": "PE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5917.jpg",
+   "email": "sen.fernandodueire@senado.leg.br",
+   "telefone": "33033522",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6345,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6345",
+   "nome": "Fernando Farias",
+   "siglaPartido": "MDB",
+   "siglaUf": "AL",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6345.jpg",
+   "email": "sen.fernandofarias@senado.leg.br",
+   "telefone": "33036266",
+   "cargo": "Senador"
+},
+{
+   "api_id": 345,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/345",
+   "nome": "Flávio Arns",
+   "siglaPartido": "PSB",
+   "siglaUf": "PR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador345.jpg",
+   "email": "sen.flavioarns@senado.leg.br",
+   "telefone": "33036301",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5894,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+   "nome": "Flávio Bolsonaro",
+   "siglaPartido": "PL",
+   "siglaUf": "RJ",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5894.jpg",
+   "email": "sen.flaviobolsonaro@senado.leg.br",
+   "telefone": "33031717",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6008,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6008",
+   "nome": "Giordano",
+   "siglaPartido": "MDB",
+   "siglaUf": "SP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6008.jpg",
+   "email": "sen.giordano@senado.leg.br",
+   "telefone": "33034177",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6341,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6341",
+   "nome": "Hamilton Mourão",
+   "siglaPartido": "REPUBLICANOS",
+   "siglaUf": "RS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6341.jpg",
+   "email": "sen.hamiltonmourao@senado.leg.br",
+   "telefone": "33031837",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5008,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5008",
+   "nome": "Humberto Costa",
+   "siglaPartido": "PT",
+   "siglaUf": "PE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5008.jpg",
+   "email": "sen.humbertocosta@senado.leg.br",
+   "telefone": "33036285",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5385,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5385",
+   "nome": "Irajá",
+   "siglaPartido": "PSD",
+   "siglaUf": "TO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5385.jpg",
+   "email": "sen.iraja@senado.leg.br",
+   "telefone": "33036469",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6010,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6010",
+   "nome": "Ivete da Silveira",
+   "siglaPartido": "MDB",
+   "siglaUf": "SC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6010.jpg",
+   "email": "sen.ivetedasilveira@senado.leg.br",
+   "telefone": "33032200",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4770,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4770",
+   "nome": "Izalci Lucas",
+   "siglaPartido": "PL",
+   "siglaUf": "DF",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4770.jpg",
+   "email": "sen.izalcilucas@senado.leg.br",
+   "telefone": "33036049",
+   "cargo": "Senador"
+},
+{
+   "api_id": 35,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/35",
+   "nome": "Jader Barbalho",
+   "siglaPartido": "MDB",
+   "siglaUf": "PA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador35.jpg",
+   "email": "sen.jaderbarbalho@senado.leg.br",
+   "telefone": "33039831",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6340,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6340",
+   "nome": "Jaime Bagattoli",
+   "siglaPartido": "PL",
+   "siglaUf": "RO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6340.jpg",
+   "email": "sen.jaimebagattoli@senado.leg.br",
+   "telefone": "33032714",
+   "cargo": "Senador"
+},
+{
+   "api_id": 581,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/581",
+   "nome": "Jaques Wagner",
+   "siglaPartido": "PT",
+   "siglaUf": "BA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador581.jpg",
+   "email": "sen.jaqueswagner@senado.leg.br",
+   "telefone": "33036390",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4531,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4531",
+   "nome": "Jayme Campos",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "MT",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4531.jpg",
+   "email": "sen.jaymecampos@senado.leg.br",
+   "telefone": "33032390",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5895,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5895",
+   "nome": "Jorge Kajuru",
+   "siglaPartido": "PSB",
+   "siglaUf": "GO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5895.jpg",
+   "email": "sen.jorgekajuru@senado.leg.br",
+   "telefone": "33032844",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6342,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6342",
+   "nome": "Jorge Seif",
+   "siglaPartido": "PL",
+   "siglaUf": "SC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6342.jpg",
+   "email": "sen.jorgeseif@senado.leg.br",
+   "telefone": "33033784",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6369,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6369",
+   "nome": "Jussara Lima",
+   "siglaPartido": "PSD",
+   "siglaUf": "PI",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6369.jpg",
+   "email": "sen.jussaralima@senado.leg.br",
+   "telefone": "33035800",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4811,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4811",
+   "nome": "Laércio Oliveira",
+   "siglaPartido": "PP",
+   "siglaUf": "SE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4811.jpg",
+   "email": "sen.laerciooliveira@senado.leg.br",
+   "telefone": "33031763",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5979,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5979",
+   "nome": "Leila Barros",
+   "siglaPartido": "PDT",
+   "siglaUf": "DF",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5979.jpg",
+   "email": "sen.leilabarros@senado.leg.br",
+   "telefone": "33036427",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5926,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5926",
+   "nome": "Lucas Barreto",
+   "siglaPartido": "PSD",
+   "siglaUf": "AP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5926.jpg",
+   "email": "sen.lucasbarreto@senado.leg.br",
+   "telefone": "33034851",
+   "cargo": "Senador"
+},
+{
+   "api_id": 1186,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1186",
+   "nome": "Luis Carlos Heinze",
+   "siglaPartido": "PP",
+   "siglaUf": "RS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1186.jpg",
+   "email": "sen.luiscarlosheinze@senado.leg.br",
+   "telefone": "33034124",
+   "cargo": "Senador"
+},
+{
+   "api_id": 631,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/631",
+   "nome": "Magno Malta",
+   "siglaPartido": "PL",
+   "siglaUf": "ES",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador631.jpg",
+   "email": "sen.magnomalta@senado.leg.br",
+   "telefone": "33036370",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5376,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5376",
+   "nome": "Mara Gabrilli",
+   "siglaPartido": "PSD",
+   "siglaUf": "SP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5376.jpg",
+   "email": "sen.maragabrilli@senado.leg.br",
+   "telefone": "33032191",
+   "cargo": "Senador"
+},
+{
+   "api_id": 742,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/742",
+   "nome": "Marcelo Castro",
+   "siglaPartido": "MDB",
+   "siglaUf": "PI",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador742.jpg",
+   "email": "sen.marcelocastro@senado.leg.br",
+   "telefone": "33034078",
+   "cargo": "Senador"
+},
+{
+   "api_id": 285,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/285",
+   "nome": "Marcio Bittar",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "AC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador285.jpg",
+   "email": "sen.marciobittar@senado.leg.br",
+   "telefone": "33032115",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5422,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5422",
+   "nome": "Marcos Rogério",
+   "siglaPartido": "PL",
+   "siglaUf": "RO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5422.jpg",
+   "email": "sen.marcosrogerio@senado.leg.br",
+   "telefone": "33036148",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5942,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5942",
+   "nome": "Marcos do Val",
+   "siglaPartido": "PODEMOS",
+   "siglaUf": "ES",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5942.jpg",
+   "email": "sen.marcosdoval@senado.leg.br",
+   "telefone": "33036747",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6304,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6304",
+   "nome": "Margareth Buzetti",
+   "siglaPartido": "PP",
+   "siglaUf": "MT",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6304.jpg",
+   "email": "sen.margarethbuzetti@senado.leg.br",
+   "telefone": "33036408",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6027,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6027",
+   "nome": "Mecias de Jesus",
+   "siglaPartido": "REPUBLICANOS",
+   "siglaUf": "RR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6027.jpg",
+   "email": "sen.meciasdejesus@senado.leg.br",
+   "telefone": "33035291",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5985,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5985",
+   "nome": "Nelsinho Trad",
+   "siglaPartido": "PSD",
+   "siglaUf": "MS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5985.jpg",
+   "email": "sen.nelsinhotrad@senado.leg.br",
+   "telefone": "33036767",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5525,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5525",
+   "nome": "Omar Aziz",
+   "siglaPartido": "PSD",
+   "siglaUf": "AM",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5525.jpg",
+   "email": "sen.omaraziz@senado.leg.br",
+   "telefone": "33036579",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5924,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5924",
+   "nome": "Oriovisto Guimarães",
+   "siglaPartido": "PSDB",
+   "siglaUf": "PR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5924.jpg",
+   "email": "sen.oriovistoguimaraes@senado.leg.br",
+   "telefone": "33031635",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5523,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5523",
+   "nome": "Otto Alencar",
+   "siglaPartido": "PSD",
+   "siglaUf": "BA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5523.jpg",
+   "email": "sen.ottoalencar@senado.leg.br",
+   "telefone": "33033172",
+   "cargo": "Senador"
+},
+{
+   "api_id": 825,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/825",
+   "nome": "Paulo Paim",
+   "siglaPartido": "PT",
+   "siglaUf": "RS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador825.jpg",
+   "email": "sen.paulopaim@senado.leg.br",
+   "telefone": "33035232",
+   "cargo": "Senador"
+},
+{
+   "api_id": 453,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/453",
+   "nome": "Pedro Chaves",
+   "siglaPartido": "MDB",
+   "siglaUf": "GO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador453.jpg",
+   "email": "sen.pedrochaves@senado.leg.br",
+   "telefone": "33032092",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5502,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5502",
+   "nome": "Plínio Valério",
+   "siglaPartido": "PSDB",
+   "siglaUf": "AM",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5502.jpg",
+   "email": "sen.pliniovalerio@senado.leg.br",
+   "telefone": "33032898",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5386,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5386",
+   "nome": "Professora Dorinha Seabra",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "TO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5386.jpg",
+   "email": "sen.professoradorinhaseabra@senado.leg.br",
+   "telefone": "33035990",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5012,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5012",
+   "nome": "Randolfe Rodrigues",
+   "siglaPartido": "PT",
+   "siglaUf": "AP",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5012.jpg",
+   "email": "sen.randolferodrigues@senado.leg.br",
+   "telefone": "33036777",
+   "cargo": "Senador"
+},
+{
+   "api_id": 70,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/70",
+   "nome": "Renan Calheiros",
+   "siglaPartido": "MDB",
+   "siglaUf": "AL",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador70.jpg",
+   "email": "sen.renancalheiros@senado.leg.br",
+   "telefone": "33032261",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5732,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5732",
+   "nome": "Rodrigo Pacheco",
+   "siglaPartido": "PSD",
+   "siglaUf": "MG",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5732.jpg",
+   "email": "sen.rodrigopacheco@senado.leg.br",
+   "telefone": "33032794",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4694,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4694",
+   "nome": "Rogerio Marinho",
+   "siglaPartido": "PL",
+   "siglaUf": "RN",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4694.jpg",
+   "email": "sen.rogeriomarinho@senado.leg.br",
+   "telefone": "33031826",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5352,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5352",
+   "nome": "Rogério Carvalho",
+   "siglaPartido": "PT",
+   "siglaUf": "SE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5352.jpg",
+   "email": "sen.rogeriocarvalho@senado.leg.br",
+   "telefone": "33032201",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5322,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5322",
+   "nome": "Romário",
+   "siglaPartido": "PL",
+   "siglaUf": "RJ",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5322.jpg",
+   "email": "sen.romario@senado.leg.br",
+   "telefone": "33036519",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6331,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6331",
+   "nome": "Sergio Moro",
+   "siglaPartido": "UNIÃO",
+   "siglaUf": "PR",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6331.jpg",
+   "email": "sen.sergiomoro@senado.leg.br",
+   "telefone": "33036202",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5988,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5988",
+   "nome": "Soraya Thronicke",
+   "siglaPartido": "PODEMOS",
+   "siglaUf": "MS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5988.jpg",
+   "email": "sen.sorayathronicke@senado.leg.br",
+   "telefone": "33031775",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5959,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5959",
+   "nome": "Styvenson Valentim",
+   "siglaPartido": "PSDB",
+   "siglaUf": "RN",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5959.jpg",
+   "email": "sen.styvensonvalentim@senado.leg.br",
+   "telefone": "33031148",
+   "cargo": "Senador"
+},
+{
+   "api_id": 4560,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4560",
+   "nome": "Sérgio Petecão",
+   "siglaPartido": "PSD",
+   "siglaUf": "AC",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4560.jpg",
+   "email": "sen.sergiopetecao@senado.leg.br",
+   "telefone": "33034086",
+   "cargo": "Senador"
+},
+{
+   "api_id": 6338,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6338",
+   "nome": "Teresa Leitão",
+   "siglaPartido": "PT",
+   "siglaUf": "PE",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6338.jpg",
+   "email": "sen.teresaleitao@senado.leg.br",
+   "telefone": "33032423",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5736,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5736",
+   "nome": "Tereza Cristina",
+   "siglaPartido": "PP",
+   "siglaUf": "MS",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5736.jpg",
+   "email": "sen.terezacristina@senado.leg.br",
+   "telefone": "33032431",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5748,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5748",
+   "nome": "Veneziano Vital do Rêgo",
+   "siglaPartido": "MDB",
+   "siglaUf": "PB",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5748.jpg",
+   "email": "sen.venezianovitaldorego@senado.leg.br",
+   "telefone": "33032252",
+   "cargo": "Senador"
+},
+{
+   "api_id": 1173,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1173",
+   "nome": "Wellington Fagundes",
+   "siglaPartido": "PL",
+   "siglaUf": "MT",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1173.jpg",
+   "email": "sen.wellingtonfagundes@senado.leg.br",
+   "telefone": "33036219",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5411,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5411",
+   "nome": "Weverton",
+   "siglaPartido": "PDT",
+   "siglaUf": "MA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5411.jpg",
+   "email": "sen.wevertonrocha@senado.leg.br",
+   "telefone": "33034161",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5070,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5070",
+   "nome": "Wilder Morais",
+   "siglaPartido": "PL",
+   "siglaUf": "GO",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5070.jpg",
+   "email": "sen.wildermorais@senado.leg.br",
+   "telefone": "33036440",
+   "cargo": "Senador"
+},
+{
+   "api_id": 5783,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5783",
+   "nome": "Zenaide Maia",
+   "siglaPartido": "PSD",
+   "siglaUf": "RN",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5783.jpg",
+   "email": "sen.zenaidemaia@senado.leg.br",
+   "telefone": "33032371",
+   "cargo": "Senador"
+},
+{
+   "api_id": 3806,
+   "api_uri": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3806",
+   "nome": "Zequinha Marinho",
+   "siglaPartido": "PODEMOS",
+   "siglaUf": "PA",
+   "urlFoto": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3806.jpg",
+   "email": "sen.zequinhamarinho@senado.leg.br",
+   "telefone": "33036623",
+   "cargo": "Senador"
+}
 ]

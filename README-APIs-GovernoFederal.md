@@ -4,7 +4,7 @@
 ## Referências
 
 - [Swagger — Dados Abertos da Câmara](https://dadosabertos.camara.leg.br/swagger/api.html)  
-- [Portal de Dados Abertos do Senado](https://www12.senado.leg.br/dados-abertos)  
+- [Portal de Dados Abertos do Senado](https://legis.senado.leg.br/dadosabertos/api-docs/swagger-ui/index.html)  
 - [Exemplo de endpoint Senado](https://legis.senado.leg.br/dadosabertos/senador/lista/atual)  
 ---
 ## Como Usar os Exemplos Práticos

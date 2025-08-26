@@ -39,8 +39,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Instalar playwright + scrapy-playwright
-RUN pip install --no-cache-dir playwright scrapy-playwright \
-    && playwright install chromium   # << sem --with-deps
+RUN pip install --no-cache-dir playwright scrapy-playwright && playwright install chromium
 
 # Copiar código
 COPY . .
