@@ -1,2 +1,33 @@
 .venv
-data_output/dados_exemple.json
+data_output/*
+!.gitkeep
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Scrapy generated files
+*.log
+*.json
+*.csv
+*.xml
+*.jl
+scraped_data/  # Or whatever directory you store your scraped data in
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Configuration files (if sensitive data is present)
+settings_local.py

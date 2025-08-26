@@ -940,16 +940,6 @@
    "cargo": "Deputado Federal"
 },
 {
-   "api_id": 204376,
-   "api_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204376",
-   "nome": "Coronel Armando",
-   "siglaPartido": "PP",
-   "siglaUf": "SC",
-   "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204376.jpg",
-   "email": "dep.coronelarmando@camara.leg.br",
-   "cargo": "Deputado Federal"
-},
-{
    "api_id": 220594,
    "api_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220594",
    "nome": "Coronel Assis",
@@ -2537,6 +2527,16 @@
    "siglaUf": "RJ",
    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg",
    "email": "dep.jorgebraz@camara.leg.br",
+   "cargo": "Deputado Federal"
+},
+{
+   "api_id": 214694,
+   "api_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694",
+   "nome": "Jorge Goetten",
+   "siglaPartido": "REPUBLICANOS",
+   "siglaUf": "SC",
+   "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
+   "email": "dep.jorgegoetten@camara.leg.br",
    "cargo": "Deputado Federal"
 },
 {
