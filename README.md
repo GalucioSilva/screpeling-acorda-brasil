@@ -14,7 +14,7 @@ O projeto permite baixar informações de **deputados, senadores, governadores**
 docker compose build
 
 # rodar um crawler (exemplo: deputados)
-docker compose run --rm scraper crawl deputados -O data_output/deputados.json
+docker compose run --rm scraper crawl deputados
 ```
 
 O resultado ficará na pasta `data_output/`.
