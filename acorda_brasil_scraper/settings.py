@@ -18,9 +18,6 @@ ADDONS = {}
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "acorda_brasil_scraper (+http://www.yourdomain.com)"
 
-# Obey robots.txt rules
-ROBOTSTXT_OBEY = True
-
 # Concurrency and throttling settings
 #CONCURRENT_REQUESTS = 16
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
@@ -55,7 +52,11 @@ DOWNLOAD_HANDLERS = {
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 
 # Config do navegador
+PLAYWRIGHT_DEFAULT_NAVIGATION_TIMEOUT = 60_000
 PLAYWRIGHT_BROWSER_TYPE = "chromium"
+
+# Se a ALES bloquear o scraper pelo robots.txt, ajuste para False:
+ROBOTSTXT_OBEY = True  # troque para False se precisar
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
